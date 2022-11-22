@@ -2,8 +2,8 @@ const api = {
   rootUrl: '/',
   // baseUrl: 'http://95.216.85.81:5000/api', //mock data base folder
   // imgUrl: "http://95.216.85.81:5000/uploads/",
-  baseUrl: 'https://blackholefrontend.vercel.app/api',
-  imgUrl: 'https://blackholefrontend.vercel.app/',
+  baseUrl: 'https://blackholefrontend.vercel.app:5006/api',
+  imgUrl: 'https://blackholefrontend.vercel.app:5006/uploads/',
   user: '/users',
   collection: '/collections',
   utils: '/utils'
